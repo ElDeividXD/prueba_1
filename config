@@ -1,0 +1,15 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = ElDeividXD
+	mail = angeldavid222@yahoo.com.ar
+	password = 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
+	email = angeldavid222@yahoo.com.ar
+[remote "origin"]
+	url = https://github.com/ElDeividXD/prueba_1
+	fetch = +refs/heads/*:refs/remotes/origin/*
